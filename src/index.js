@@ -598,7 +598,6 @@ const html = {
   "styles": []
 };
 
-
 const css = {
   "parentStyleSheet": null,
   "cssRules": [
